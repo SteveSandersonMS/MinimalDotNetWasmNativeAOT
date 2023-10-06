@@ -2,6 +2,8 @@
 
 This repo contains two examples.
 
+They are minimal in the sense of doing the smallest amount of stuff in the source code. However they are **not** minimal in terms of size - various things could be done to reduce the output size dramatically, such as stripping debug info or running `wasm-opt`.
+
 ## Prerequisites
 
  * .NET 8 SDK
